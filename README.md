@@ -1,4 +1,4 @@
 # stopWatch website
 
 
-url: https://rreone2017.github.io/stopWatch
+url: https://brightgarden02.github.io/stopWatch/
